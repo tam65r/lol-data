@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lol-data/static/css/main.6945e967.css",
+    "main.js": "/lol-data/static/js/main.85467ef6.js",
+    "static/js/787.0805e667.chunk.js": "/lol-data/static/js/787.0805e667.chunk.js",
+    "static/media/green-plain-concrete-textured-background.jpg": "/lol-data/static/media/green-plain-concrete-textured-background.b4deafd07f91c65fe4fb.jpg",
+    "index.html": "/lol-data/index.html",
+    "main.6945e967.css.map": "/lol-data/static/css/main.6945e967.css.map",
+    "main.85467ef6.js.map": "/lol-data/static/js/main.85467ef6.js.map",
+    "787.0805e667.chunk.js.map": "/lol-data/static/js/787.0805e667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6945e967.css",
+    "static/js/main.85467ef6.js"
+  ]
+}
