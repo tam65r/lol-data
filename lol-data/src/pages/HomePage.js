@@ -5,7 +5,7 @@ import Champion from "../components/Champion/Champion";
 const HomePage = () => {
     return(
         <>
-            <Champion  championId={'Diana'}/>
+            <Champion  championId={'Ezreal'}/>
             <Footer />
         </>
     )
